@@ -1,0 +1,18 @@
+@media (max-width:375px) {
+    .rating{
+        flex-direction: column;
+    }
+    .text p{
+        margin-top: 10px;
+    }
+
+}
+
+@media (max-width:819px) {
+    .second{
+        margin-left: auto;
+    }
+    .third{
+        margin-left: auto;
+    }
+}
